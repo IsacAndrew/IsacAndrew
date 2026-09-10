@@ -1,6 +1,6 @@
-Olá, eu sou o Isac Andrew! 👋
+# Olá, eu sou o Isac Andrew! 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul**, atualmente no segundo semestre.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Cruzeiro do Sul, atualmente no segundo semestre.
 
 Estou construindo minha base em desenvolvimento de software e buscando minha primeira oportunidade profissional na área de tecnologia.
 
@@ -8,6 +8,8 @@ Estou construindo minha base em desenvolvimento de software e buscando minha pri
 - 🐍 Conhecimentos básicos em Python
 - 🧠 Base em algoritmos e lógica de programação
 - 📍 São Paulo, SP
+
+---
 
 ## Tecnologias em aprendizado
 
@@ -21,6 +23,7 @@ Estou construindo minha base em desenvolvimento de software e buscando minha pri
   <img alt="Git" title="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
 
+---
 
 ## Formação e estudos
 
@@ -33,17 +36,24 @@ Estou construindo minha base em desenvolvimento de software e buscando minha pri
 - 🧠 **Algoritmos e Lógica de Programação** — Curso em Vídeo  
   Carga horária de 40 horas.
 
-- 🌐 **HTML5 e CSS3 — Mundos 1 e 2** — Curso em Vídeo  
-  80 horas de estudos com o professor Gustavo Guanabara.
+- 🌐 **HTML5 e CSS3 — Curso em Vídeo**  
+  Curso em andamento, com os Mundos 1 e 2 no plano de estudos.
 
-- 🔧 **Git**  
+- 🖥️ **Fundamentos de TI: Hardware e Software** — Fundação Bradesco  
+  Curso concluído, com carga horária de 7 horas.
+
+- 🔧 **Git e GitHub**  
   Estudos independentes por meio de documentação, vídeos, professores e profissionais da área.
+
+---
 
 ## Objetivo profissional
 
 Busco minha primeira oportunidade na área de tecnologia, seja em estágio, desenvolvimento ou suporte técnico.
 
 Quero aplicar meus conhecimentos, aprender com profissionais mais experientes e evoluir por meio de desafios e projetos práticos.
+
+---
 
 ## Contato
 
