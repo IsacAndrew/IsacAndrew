@@ -36,6 +36,9 @@ Estou construindo minha base em desenvolvimento de software e buscando minha pri
 - 🌐 **HTML5 e CSS3 — Mundos 1 e 2** — Curso em Vídeo  
   80 horas de estudos com o professor Gustavo Guanabara.
 
+- 🔧 **Git**  
+  Estudos independentes por meio de documentação, vídeos, professores e profissionais da área.
+
 ## Objetivo profissional
 
 Busco minha primeira oportunidade na área de tecnologia, seja em estágio, desenvolvimento ou suporte técnico.
