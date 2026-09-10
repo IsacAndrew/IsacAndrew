@@ -32,3 +32,15 @@ Estou construindo minha base em desenvolvimento de software e buscando minha pri
 
 - 🌐 **HTML e CSS**  
   Estudos independentes por meio de documentação, vídeos, professores e profissionais da área.
+
+## Objetivo profissional
+
+Busco minha primeira oportunidade na área de tecnologia, seja em estágio, desenvolvimento ou suporte técnico.
+
+Quero aplicar meus conhecimentos, aprender com profissionais mais experientes e evoluir por meio de desafios e projetos práticos.
+
+## Contato
+
+<a href="https://www.linkedin.com/in/isac-andrew-a079373ab">
+  <img alt="LinkedIn" title="Acessar meu LinkedIn" src="https://img.shields.io/badge/LinkedIn-Isac%20Andrew-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
