@@ -1,6 +1,6 @@
 Olá, eu sou o Isac Andrew! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, atualmente no segundo semestre.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul**, atualmente no segundo semestre.
 
 Estou construindo minha base em desenvolvimento de software e buscando minha primeira oportunidade profissional na área de tecnologia.
 
@@ -18,3 +18,17 @@ Estou construindo minha base em desenvolvimento de software e buscando minha pri
   &nbsp;
   <img alt="Python" title="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
+
+## Formação e estudos
+
+- 🎓 **Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do Sul  
+  Atualmente no segundo semestre.
+
+- 🐍 **Python 3 — Mundos 1 e 2** — Curso em Vídeo  
+  80 horas de estudos com o professor Gustavo Guanabara.
+
+- 🧠 **Algoritmos e Lógica de Programação** — Curso em Vídeo  
+  Carga horária de 40 horas.
+
+- 🌐 **HTML e CSS**  
+  Estudos independentes por meio de documentação, vídeos, professores e profissionais da área.
