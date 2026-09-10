@@ -17,7 +17,10 @@ Estou construindo minha base em desenvolvimento de software e buscando minha pri
   <img alt="CSS3" title="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   &nbsp;
   <img alt="Python" title="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  &nbsp;
+  <img alt="Git" title="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
+
 
 ## Formação e estudos
 
@@ -30,8 +33,8 @@ Estou construindo minha base em desenvolvimento de software e buscando minha pri
 - 🧠 **Algoritmos e Lógica de Programação** — Curso em Vídeo  
   Carga horária de 40 horas.
 
-- 🌐 **HTML e CSS**  
-  Estudos independentes por meio de documentação, vídeos, professores e profissionais da área.
+- 🌐 **HTML5 e CSS3 — Mundos 1 e 2** — Curso em Vídeo  
+  80 horas de estudos com o professor Gustavo Guanabara.
 
 ## Objetivo profissional
 
